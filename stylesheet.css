@@ -267,6 +267,10 @@ card {
 				grid: 25%  / auto auto ;
 				/* 16:9 Aspect Ratio */
 }
+button.send {
+				font-size: 11px;
+				font-family: 'Staatliches', cursive;
+				}
 button {
 				font-family:Times New roman;
 				font-size: 15px;
@@ -278,10 +282,7 @@ button {
     height: 30px;
     /* 16:9 Aspect Ratio */
 }
-button.send {
-				font-size: 11px;
-				font-family: 'Staatliches', cursive;
-				}
+
 menu1, menu2, menu3, menu4, menu5 {
 			 top: 96%;
 			 line-height: 0px;
